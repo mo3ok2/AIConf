@@ -1,0 +1,8 @@
+.buy-menu {
+    margin-bottom: 5px;
+}
+
+.fa, .far, .fas {
+    font-family: "Font Awesome 5 Free";
+    font: normal normal normal 14px/1 FontAwesome;
+}
